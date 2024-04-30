@@ -1,0 +1,10 @@
+{
+  "_id": { "$oid": "65a44d2025583cf64f15b579" },
+  "id": { "$numberInt": "3534" },
+  "title": "Backend Engineer (Go, NodeJS, Networking, Kafka)",
+  "company": "Syndr",
+  "description": "# Job Description ✨\n\nAs a Backend Engineer, your role involves:\n- Building trading infrastructure to support various platform functionalities like trade execution, order matching, and more.\n- Writing robust, low-latency code to handle massive trading volumes.\n- Developing performance-driven communication layers for internal networking.\n- Constructing and maintaining high-performance APIs (REST + Websockets)",
+  "url": "https://www.crackeddevs.com/job/3534?ref=api",
+  "voiceover": "\"Attention, job seekers! Syndr is seeking a highly skilled Backend Engineer to join their team. With 4+ years of experience in JavaScript, Node.js, Go, Python, and Kafka, you will be responsible for building trading infrastructure, developing APIs, and enhancing platform performance. Ideal candidates possess a strong Linux command, knowledge of system design, and the ability to master new technologies quickly. This fast-paced role offers the chance to be part of a disruptive team in the DeFi space with competitive salaries and an exciting work environment. Apply now!\\\"\"",
+  "__v": { "$numberInt": "0" }
+}

@@ -1,8 +1,5 @@
-
-# dependencies
 /node_modules
-/.pnp
-
-# local env files
-.env*.local
-.env
+/videos
+/output
+/.env
+/.env.example
