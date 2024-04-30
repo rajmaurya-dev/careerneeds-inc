@@ -4,8 +4,8 @@ import ContainerScroll from "@/components/ui/container-scroll-animation";
 import { TextGenerateEffect } from "@/components/ui/text-generate-effect";
 import Link from "next/link";
 
-const words = "Easy Gigs, Easy Swipes:";
-const words2 = "Your Shortcut to Flexible Work";
+const words = "Simplifying gig hunting for students,";
+const words2 = "one swipe at a time";
 
 const HeroScrollDemo = () => {
   return (
